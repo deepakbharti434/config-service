@@ -1,0 +1,17 @@
+# github.com/gorilla/mux v1.8.1
+## explicit; go 1.20
+github.com/gorilla/mux
+# github.com/jakewright/muxinator v1.0.0
+## explicit; go 1.14
+github.com/jakewright/muxinator
+# github.com/jakewright/tutorials v0.0.0-20190320222748-73e2e76460fb
+## explicit
+github.com/jakewright/tutorials/home-automation/03-config/controller
+github.com/jakewright/tutorials/home-automation/03-config/domain
+github.com/jakewright/tutorials/home-automation/03-config/service
+# github.com/urfave/negroni v1.0.0
+## explicit
+github.com/urfave/negroni
+# gopkg.in/yaml.v2 v2.4.0
+## explicit; go 1.15
+gopkg.in/yaml.v2
